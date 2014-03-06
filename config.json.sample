@@ -1,0 +1,11 @@
+{
+  "Users": [
+    {
+      "Username": "Default-User",
+      "Password": "MyPassword",
+      "Domains": [
+        "www.example.com"
+      ]
+    }
+  ]
+}
